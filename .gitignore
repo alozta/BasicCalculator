@@ -34,3 +34,5 @@ captures/
 
 # Intellij
 *.iml
+
+src/Calculator.java
